@@ -1,4 +1,11 @@
-# THIS IS THE DEVELOP BRANCH
+#My Stuff
+~~~
+#keymap path
+#./keyboards/framework/ansi/keymaps/default/keymap.c
+
+#compile
+qmk compile -kb framework/ansi -km default
+~~~
 
 Warning- This is the `develop` branch of QMK Firmware. You may encounter broken code here. Please see [Breaking Changes](https://docs.qmk.fm/#/breaking_changes) for more information.
 
